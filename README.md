@@ -1,1 +1,1 @@
-raspberry-pi hosted ai assistant
+AI hosted on server for interfacing with lightweight minimal edge devices to enable voice chat with AI models without any compute. Edge devices are built with microphone and speaker and minimal compute, processing is all offloaded to server AI. Keeping model local to server also allowd integration with obsidian and complete 'brain' model.
